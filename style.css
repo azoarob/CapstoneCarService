@@ -11,10 +11,33 @@ html{
     background-size: cover;
     position: relative;
   }
-*/  
+*/ 
+
+/*--styling the navigation bar------*/
+
+.navbar__menu {
+	text-align: center;
+	margin:20px; 
+	font-size: 25px;
+}
+
+.navbar__item {
+	display: inline;
+}
+
+.header_text {
+	margin-right: 60%;
+}
+
 a{
     color:  rgb(153, 93, 19);
 }
+
+.links:hover {
+    color:blue ;
+    transition: all 0.3s ease;
+}
+
 a:visited{
     text-decoration: rgb(153, 93, 19);
     color:  rgb(153, 93, 19);
