@@ -111,7 +111,7 @@ body, html{
   height: 50%;
 
   /* Position and center the image to scale nicely on all screens */
-  background-position: center;
+  position: center;
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
