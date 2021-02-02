@@ -44,10 +44,11 @@ body{
 }
 .ConForm{
     padding: 20px;
+    color: rgb(153, 93, 19); 
 }
 .ConForm label{
     display: block;
-    color: rgb(153, 93, 19); 
+    
 }
 .MyForm label{
     display: block;
