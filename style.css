@@ -12,8 +12,12 @@ html{
     position: relative;
   }
 */  
+a{
+    color:  rgb(153, 93, 19);
+}
 a:visited{
-    text-decoration: none;
+    text-decoration: rgb(153, 93, 19);
+    color:  rgb(153, 93, 19);
 }
 body{
 
@@ -43,12 +47,12 @@ body{
     padding: 20px;
 }
 .ConForm{
-    padding: 20px;
-    color: rgb(153, 93, 19); 
+
+    padding: 10px;
 }
 .ConForm label{
     display: block;
-    
+    color: rgb(153, 93, 19); 
 }
 .MyForm label{
     display: block;
