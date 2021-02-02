@@ -61,6 +61,7 @@ body{
     padding-bottom: 15px;
 }
 .price{
+    color: rgb(153, 93, 19);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .bgcolour{
