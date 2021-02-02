@@ -33,6 +33,11 @@ a{
     color:  rgb(153, 93, 19);
 }
 
+.contact_style {
+	font-size: 20px;
+	font-family:Lucida Sans Lucida, Sans Regular, Lucida Grande, Lucida Sans Unicode, Geneva, Verdana, sans-serif ;
+	color:rgb(153, 93, 19);"
+
 .links:hover {
     color:blue ;
     transition: all 0.3s ease;
