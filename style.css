@@ -16,21 +16,19 @@ html{
 /*--styling the navigation bar------*/
 
 .navbar__menu {
-	/*text-align: center; */
+	text-align: center;
 	margin:20px; 
 	font-size: 25px;
-	
-	
+}
+
+.navbar__item {
+	display: inline;
 	padding: 10px 16px;
 	background-color: #209a9b;
 	color: #FFF;
 	text-decoration: none;
 	float: right;
 	border-right: 2px solid #fff;
-}
-
-.navbar__item {
-	display: inline;
 }
 
 .header_text {
