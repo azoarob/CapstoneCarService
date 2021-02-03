@@ -19,18 +19,11 @@ html{
 	text-align: center;
 	margin:20px; 
 	font-size: 25px;;
-	background-color: #383838;
-	
+		
 }
 
 .navbar__item {
 	display: inline;
-	padding: 10px 16px;
-	background-color: #383838;
-	text-decoration: none;
-	letter-spacing: 0.1em;
-	float: left;
-	border-right: 2px;
 }
 
 .header_text {
