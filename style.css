@@ -118,3 +118,9 @@ img {
 img:hover {
   opacity: 1.0;
 }
+.bodycontent {
+	margin-right: 60%;
+}
+.headercolour{
+    color:rgb(153, 93, 19) ;
+}
