@@ -1,6 +1,7 @@
 html{
     background: url("background.jpg") no-repeat center center fixed; 
     background-size: cover;
+    opacity : 0.6;
 }
 /*.BGimage{
     background-image: url("background.jpg");
@@ -107,4 +108,13 @@ hr {
 }
 container{
 	margin-right: 60%;
+}
+
+img {
+  opacity: 0.8;
+  width:100%;
+}
+
+img:hover {
+  opacity: 1.0;
 }
