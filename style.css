@@ -24,8 +24,7 @@ html{
 .navbar__item {
 	display: inline;
 	padding: 10px 16px;
-	background-color: #209a9b;
-	color: #FFF;
+	background-color: #888888
 	text-decoration: none;
 	float: right;
 	border-right: 2px solid #fff;
