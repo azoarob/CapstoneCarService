@@ -34,6 +34,12 @@ a{
     color:  rgb(153, 93, 19);
 }
 
+.links {
+	padding : 0 1rem;
+	height = 100%;
+}
+	
+
 .links:hover {
     color:blue ;
     transition: all 0.3s ease;
