@@ -15,9 +15,6 @@ html{
 
 /*--styling the navigation bar------*/
 
-#top_container {
-	position: fixed;
-}
 
 .navbar__menu {
 	text-align: center;
