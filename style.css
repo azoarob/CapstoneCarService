@@ -19,7 +19,6 @@ html{
 	text-align: center;
 	margin:20px; 
 	font-size: 25px;
-	position: fixed;
 		
 }
 
@@ -63,7 +62,6 @@ body, html{
     font-family: cursive;   
     text-align: center;
     margin: auto;
-    position: fixed;
 }
 .menu{
     list-style-type: none;
