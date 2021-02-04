@@ -18,7 +18,8 @@ html{
 .navbar__menu {
 	text-align: center;
 	margin:20px; 
-	font-size: 25px;;
+	font-size: 25px;
+	position: fixed;
 		
 }
 
